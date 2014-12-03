@@ -10,4 +10,5 @@ public class Player {
 	public int Bet(int bet){
 		bet-= money;
 	}
+	public int Won(int )
 }
